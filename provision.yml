@@ -1,6 +1,7 @@
 packages:
   - odin.ui
   - remotesave
+  - pkgbuild
 package_sources:
   github:
   - mrc-ide/odin.ui
